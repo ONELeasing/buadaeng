@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/buadaeng/static/js/main.3ae89945.js",
+    "main.js": "/buadaeng/static/js/main.a188a342.js",
     "static/media/Seal.png": "/buadaeng/static/media/Seal.5cf84e4c65dd7913fe44.png",
     "static/media/Receiver.png": "/buadaeng/static/media/Receiver.abaca4441356f9d266d0.png",
     "static/media/KTB.png": "/buadaeng/static/media/KTB.184be6ae6d7368646dc4.png",
     "static/media/receipt-logo.png": "/buadaeng/static/media/receipt-logo.08ab1a833c1efaa42de9.png",
     "index.html": "/buadaeng/index.html",
-    "main.3ae89945.js.map": "/buadaeng/static/js/main.3ae89945.js.map"
+    "main.a188a342.js.map": "/buadaeng/static/js/main.a188a342.js.map"
   },
   "entrypoints": [
-    "static/js/main.3ae89945.js"
+    "static/js/main.a188a342.js"
   ]
 }
